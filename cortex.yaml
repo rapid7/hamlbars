@@ -1,0 +1,15 @@
+---
+info:
+  title: Hamlbars
+  description: Some extensions to HAML to allow generation of Handlebars templates.
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/hamlbars
+  x-cortex-tag: hamlbars
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: metasploit
+openapi: 3.0.1
+servers:
+- url: "/"
